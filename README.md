@@ -1,3 +1,4 @@
+[![Join the chat at https://gitter.im/RevivalPMMP/Lobby#](https://badges.gitter.im/RevivalPMMP/Lobby.svg)](https://gitter.im/RevivalPMMP/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Plugin Requests
 Place your requests for plugins to revive here.
 
